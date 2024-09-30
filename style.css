@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  background-image: url(https://assamtribune.com/h-upload/2022/03/01/1330873-clouds-weather.webp?width=500&height=300);
+}
+
+
+
+
+h1 {
+  font-size: 24px;
+}
+
+
+
+
+
+.temp {
+  margin-top: 20px;
+  font-size: 45px;
+  margin-left: 85px;
+}
+.city{
+  margin-top: 20px;
+    margin-left: 100px;
+    font-size: 29px;
+}
+.humidity{
+  margin-top: 20px;
+    font-size: 20px;
+    margin-left: 84px;
+}
+.wind{
+  margin-top: 20px;
+    font-size: 20px;
+    margin-left: 88px;
+}
+#div2{
+  background-image: url(https://cdn.pixabay.com/photo/2023/10/28/09/20/darling-8346954_1280.jpg);
+  border-radius: 40px;
+  margin-top: 80px;
+
+}
+#png{
+  width: 104px;
+  margin-left: 90px;
+  margin-top: 10px;
+}
